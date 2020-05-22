@@ -1,0 +1,168 @@
+.mainbody{
+    width:100%;
+    height: 100%;
+    background-color: thistle;
+}
+ .section1
+{   margin-top: 0px;
+   width: 100%;
+   height: 150px;
+   position:fixed;
+   background-color: rgb(100, 8, 32);
+}
+.logo1
+{
+width: 50px;
+height: 50px;
+margin-top: 100px;
+padding: 50px 50px 50px 50px;
+}
+
+.logo2
+{
+width: 50px;
+height: 50px;
+
+padding: 50px 50px 50px 50px;
+
+}
+.cell1 
+{
+float: left;
+ width: 20%;
+ height: 30%;
+ background-color: rgb(100, 8, 32);
+ padding-top: 20px;
+ text-align: center ;
+
+}
+.cell2 
+{
+
+float: left;
+ width: 60%;
+ height: 30%;
+ background-color: rgb(100, 8, 32);
+ color:white;
+ text-align: center;
+}
+.cell3
+{
+float: left;
+ width:20%;
+ height: 30%;
+ background-color: rgb(100, 8, 32);
+ padding-top: 20px;
+ text-align: center;
+
+}
+.nav
+{
+ margin-top: 150px;
+width: 100%;
+text-align: center;
+height: 5%;
+background-color: white;
+border: 5px solid white;
+padding-bottom: 20px;
+color:black;
+position: fixed;
+
+}
+.section2{
+width:100%;
+height:7%;
+margin-top:0px;
+
+}
+.nav-style {
+
+  margin-left:5px;
+  padding-left:20px;
+ 
+  overflow: hidden;
+  position: fixed;
+  float: left;
+
+}
+.nav-style1 {
+    overflow: hidden;
+    border:1px solid white;
+    border-right-width: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  list-style-type: none;
+  
+}
+.bodyimg{
+    widows: 100%;
+    height:7%;
+}
+.title-font{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(27, 14, 139);
+
+}
+.section3-cell-1{
+    text-align: left;
+    margin-left:2%;
+    float: left;
+     width:30%;
+     height:950px;
+     border-right: 3px solid rgb(167, 119, 160);
+
+}
+.section3-cell-2{
+    text-align:left;
+    margin-left:40%;
+    float: left;
+     width:900px;
+     height:400px;
+     border: 3px solid rgb(171, 124, 180);
+     
+}
+.Divsectioin3-cell-2{
+    border:0.5px solid rgb(194, 139, 186);
+}
+.margin{
+    margin-left:7px;
+    width:65%;
+    margin:auto;
+    border:1px solid white;
+}
+.section4-cell-1
+{
+    margin-left: 2%;
+    width: 100%;
+    height: 100px;
+   
+}
+.footer
+{
+    width: 100%;
+    height: 40px;
+    border:1px solid blue;
+    padding-bottom:15px;
+    color:yellow;
+    text-align: center;
+    background-color: darkblue;
+}
+.section4-cell-2
+{
+
+    width: 30%;
+    height:60px;
+    border:0.4px solid lightsalmon;
+    background-color: lightsalmon;
+}
+.final
+{
+    background-color: black;
+    width: 100px;
+    color:white;
+    font-size: 2em;
+}
