@@ -1,0 +1,26 @@
+<!DOCTYPE html> 
+ <html> 
+     <head>
+        <title>Test color</title>  
+         <script> 
+             document.addEventListener('DOMContentLoaded',function(){ 
+                 document.querySelector('#color-change').onchange=function(){ 
+                  document.querySelector('#text').style.color=this.value; 
+                }; 
+                  
+             }); 
+     </script> 
+        
+     </head> 
+     <body> 
+    <h1 id="text">Hello!Welcome to Our PreIntern Group.</h1> 
+    <select id="color-change"> 
+     <option value="black">Black</option>  
+     <option value="green">Green</option> 
+     <option value="blue">Blue</option> 
+     <option value="yellow">Yellow</option>
+     <option value="red">Red</option>  
+     
+	</select>   
+    </body> 
+</html> 
